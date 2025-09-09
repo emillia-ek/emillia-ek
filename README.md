@@ -2,7 +2,18 @@
 # 💫 About Me:
 I'm a passionate full-stack developer and tech school student, deeply interested in game development. I love building creative projects, learning new technologies, and turning ideas into code.
 
-# 💻 Tech Stack:
+---
+
+## 🚀 Projects
+
+### [**Ambition Link**](https://ambilink.pl)  
+💡 **Role:** Co-creator & Backend Lead Developer (also contributed to Fullstack)  
+🌐 **About:** Ambition Link is a platform that helps users discover personal growth opportunities—conferences, competitions, workshops, volunteering, and more. Users can **browse, add, and share events** to stay inspired and connected.  
+👥 **Impact:** Over **300 users** are already using the platform!  
+
+---
+
+## 🛠 Technologies & Tools
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emillia-ek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -14,6 +25,7 @@ I'm a passionate full-stack developer and tech school student, deeply interested
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
+
 ## 🌐 Contact me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilia@koscielniak.eu) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

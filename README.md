@@ -11,6 +11,16 @@ I'm a passionate full-stack developer and tech school student, deeply interested
 🌐 **About:** Ambition Link is a platform that helps users discover personal growth opportunities—conferences, competitions, workshops, volunteering, and more. Users can **browse, add, and share events** to stay inspired and connected.  
 👥 **Impact:** Over **300 users** are already using the platform!  
 
+### [**Eventify**](https://github.com/emillia-ek/Eventify)  
+💡 **Role:** Co-creator & Backend Lead Developer  
+🛠️ **Technologies:** C#, .NET 9.0, Spectre.Console, Figgle, System.Text.Json  
+🌐 **About:** Eventify is an open-source event management framework that simplifies scalable, role-based scheduling applications. It supports multiple event types, reservations, and modular, event-driven architecture.  
+🎯 **Key Features:**
+  - Role-Based Access Control (Admins, Managers, Users)  
+  - Event & Reservation Management with persistent storage  
+  - Secure authentication and password hashing  
+  - Console-based, styled UI for user-friendly interactions
+ 
 ---
 
 ## 🛠 Technologies & Tools

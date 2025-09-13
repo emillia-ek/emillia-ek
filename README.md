@@ -5,7 +5,7 @@ I'm a passionate full-stack developer and tech school student, deeply interested
 ---
 
 ## 🚀 Projects
-###[**Movie Manager**](https://github.com/emillia-ek/MovieManager)
+### [**Movie Manager**](https://github.com/emillia-ek/MovieManager)
 🌐 **About:** MovieManager is an app that lets users browse movies from a database and manage their own collection—adding, editing, and deleting films. The backend is built with ASP.NET Core and Entity Framework Core, while the frontend uses Vue 3 (Vite), Axios, Vuelidate, and Bootstrap.
 
 ### [**Ambition Link**](https://ambilink.pl)  

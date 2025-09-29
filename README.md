@@ -4,28 +4,22 @@ I'm a passionate software developer and tech school student (ZSK), deeply intere
 
 ---
 
-## 🚀 Projects
+## Projects
 ### [**Movie Manager**](https://github.com/emillia-ek/MovieManager)
-🌐 **About:** MovieManager is an app that lets users browse movies from a database and manage their own collection—adding, editing, and deleting films. The backend is built with ASP.NET Core and Entity Framework Core, while the frontend uses Vue 3 (Vite), Axios, Vuelidate, and Bootstrap.
+MovieManager is an app that lets users browse movies from a database and manage their own collection—adding, editing, and deleting films. The backend is built with ASP.NET Core and Entity Framework Core, while the frontend uses Vue 3 (Vite), Axios, Vuelidate, and Bootstrap.
 
 ### [**Ambition Link**](https://ambilink.pl)  
-💡 **Role:** Co-founder & Backend Developer
-🌐 **About:** Ambition Link is a platform that helps users discover personal growth opportunities—conferences, competitions, workshops, volunteering, and more. Users can **browse, add, and share events** to stay inspired and connected.  
-👥 **Impact:** Over **300 users** are already using the platform!  
+**Role:** Co-founder & Backend Developer
+**About:** Ambition Link is a platform that helps users discover personal growth opportunities—conferences, competitions, workshops, volunteering, and more. Users can **browse, add, and share events** to stay inspired and connected. Over 600 users are using this platform!
 
 ### [**Eventify**](https://github.com/emillia-ek/Eventify)  
-💡 **Role:** Co-creator & Backend Lead Developer  
-🛠️ **Technologies:** C#, .NET 9.0, Spectre.Console, Figgle, System.Text.Json  
-🌐 **About:** Eventify is an open-source event management framework that simplifies scalable, role-based scheduling applications. It supports multiple event types, reservations, and modular, event-driven architecture.  
-🎯 **Key Features:**
-  - Role-Based Access Control (Admins, Managers, Users)  
-  - Event & Reservation Management with persistent storage  
-  - Secure authentication and password hashing  
-  - Console-based, styled UI for user-friendly interactions
- 
+**Role:** Co-creator & Backend Lead Developer  
+**Technologies:** C#, .NET 9.0, Spectre.Console, Figgle, System.Text.Json  
+**About:** Eventify is an open-source event management framework that simplifies scalable, role-based scheduling applications. It supports multiple event types, reservations, and modular, event-driven architecture.  
+
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emillia-ek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -42,6 +36,6 @@ I'm a passionate software developer and tech school student (ZSK), deeply intere
 
 ---
 
-## 🌐 Contact me:
+## Contact me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilia@koscielniak.eu) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

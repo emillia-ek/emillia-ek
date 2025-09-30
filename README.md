@@ -1,6 +1,6 @@
 ## Hi, I'm Emilia Kościelniak! 
 # 💫 About Me:
-I'm a passionate software developer and tech school student (ZSK), deeply interested in game development. I love building creative projects, learning new technologies, and turning ideas into code.
+I'm a passionate software developer and tech school student (ZSK). I love building creative projects, learning new technologies, and turning ideas into code.
 
 ---
 
